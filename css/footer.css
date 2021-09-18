@@ -1,0 +1,15 @@
+footer {
+  background: #0F607E;
+  color: #fff;
+}
+
+footer .contacto-tel {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+footer .derechos {
+  text-align: center;
+}
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,75 @@
+header {
+  background: url(../img/bg.jpg);
+  color: #fff;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+header a {
+  text-decoration: none;
+  color: #fff;
+  padding: 15px;
+  margin: 15px;
+}
+
+header a:hover {
+  color: #fff;
+}
+
+header .menu {
+  text-align: right;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+header .menu a {
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
+  padding: 10px;
+  display: inline-block;
+  margin-right: 10px;
+}
+
+header .menu a:hover {
+  border-bottom: 1px solid #fff;
+}
+
+header .imagen {
+  margin: auto;
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+}
+
+header .imagen img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+header .etiqueta {
+  margin: auto;
+  font-weight: 300;
+}
+
+header .etiqueta .teamwolf {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 30px;
+}
+
+header .etiqueta .datos-etiqueta {
+  text-align: center;
+  border: 1px solid #fff;
+  margin-bottom: 80px;
+}
+
+header .etiqueta .datos-etiqueta h1 {
+  margin-top: 20px;
+  font-size: 25px;
+}
+
+header .etiqueta .datos-etiqueta p {
+  font-size: 18px;
+}
+/*# sourceMappingURL=header.css.map */

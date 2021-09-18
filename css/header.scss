@@ -1,0 +1,68 @@
+header{
+    background: url(../img/bg.jpg);
+    color: #fff;
+    margin-bottom: 50px;
+    text-align: center;
+    a{
+        text-decoration: none;
+        color: #fff;
+        padding: 15px;
+        margin: 15px;
+        &:hover{
+            color: #fff;
+        }
+    }
+    .menu{
+        text-align: right;
+        margin-top: 20px;
+        font-size: 18px;
+        a{
+            color: #fff;
+            font-weight: 400;
+            text-decoration: none;
+            padding: 10px;
+            display: inline-block;
+            margin-right: 10px;
+            &:hover{
+                border-bottom: 1px solid #fff;
+            }
+        }
+
+    }
+    .imagen{
+        margin: auto;
+        width: 200px;
+        height: 200px;
+        margin-top: 30px;
+        
+        img{
+            width: 100%;
+            border-radius: 50%;
+        }
+    }
+
+    .etiqueta{
+        margin: auto;
+        font-weight: 300;
+        .teamwolf{
+            text-align: center;
+            font-size: 18px;
+            margin-bottom: 30px;
+            
+        }
+        .datos-etiqueta{
+            text-align: center;
+            border: 1px solid #fff;
+            margin-bottom: 80px;
+           
+            h1{
+                
+                margin-top: 20px;
+                font-size: 25px;
+            }
+            p{
+                font-size: 18px;
+            }
+        }
+    }
+}
